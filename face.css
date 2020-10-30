@@ -1,0 +1,16 @@
+.faceContainer{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.faceOutline{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: lightcoral;
+    justify-content: center;
+    align-items: center;
+}
